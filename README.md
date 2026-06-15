@@ -8,40 +8,40 @@ Modern Java applications often face complex memory issues that increase debuggin
 
 ---
 
-# Published Technical Articles
+## Published Technical Articles
 
-## 1. Automated Heap Dump Analysis: Reducing MTTR with AI-Driven JVM Diagnostics
+### 1. Automated Heap Dump Analysis: Reducing MTTR with AI-Driven JVM Diagnostics
 
 My first published article exploring how AI-powered approaches can automate traditional JVM heap dump analysis, improve memory leak detection, and significantly reduce incident resolution time.
 
-### Key Topics:
+🔗 **Read the article:**  
+https://blog.heaphero.io/automated-heap-dump-analysis/
+
+**Key Topics:**
 - AI-assisted JVM diagnostics
 - Memory leak detection
 - Root cause analysis
 - MTTR reduction
 - Performance troubleshooting
 
-🔗 Published on HeapHero:
-(Add your article link here)
-
 ---
 
-## 2. Large Heap Dump Analysis: Challenges, Limitations, and AI-Powered Solutions
+### 2. Large Heap Dump Analysis: Challenges, Limitations, and AI-Powered Solutions
 
 A technical deep dive into the challenges of analyzing massive JVM heap dumps and how intelligent analysis techniques can overcome the limitations of manual debugging.
 
-### Key Topics:
+🔗 **Read the article:**  
+https://blog.heaphero.io/large-heap-dump-analysis/
+
+**Key Topics:**
 - Large heap dump challenges
 - JVM memory diagnostics
 - Traditional vs AI-driven analysis
 - Performance optimization
 
-🔗 Published on HeapHero:
-https://blog.heaphero.io/large-heap-dump-analysis/
-
 ---
 
-# Technologies & Concepts
+## Technologies & Concepts Covered
 
 - Java
 - Java Virtual Machine (JVM)
@@ -54,15 +54,15 @@ https://blog.heaphero.io/large-heap-dump-analysis/
 
 ---
 
-# Author
+## Author
 
-**Aayush Gautam**
+### Aayush Gautam
 
 B.Tech CSE (Computer Networking) Student  
 Technical Writer | JVM Performance Engineering Enthusiast
 
 ---
 
-## Connect
+## Connect & Feedback
 
-Feel free to explore the articles, share feedback, or discuss JVM performance engineering and AI-driven diagnostics.
+Feel free to explore the articles and share your insights on JVM performance engineering, memory diagnostics, and AI-driven troubleshooting.
